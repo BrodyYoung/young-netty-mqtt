@@ -7,7 +7,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * Created by chenws on 2019/11/1.
+ * Created by yyb on 2022/11/1.
  */
 public interface ReSendMessageService {
 

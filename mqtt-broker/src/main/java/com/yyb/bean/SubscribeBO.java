@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import java.util.Objects;
 
 /**
- * Created by chenws on 2019/10/9.
+ * Created by yyb on 2022/10/9.
  */
 @NoArgsConstructor
 public class SubscribeBO {

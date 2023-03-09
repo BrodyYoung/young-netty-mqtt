@@ -6,7 +6,7 @@ import io.netty.handler.codec.mqtt.MqttPublishMessage;
 import lombok.Data;
 
 /**
- * Created by chenws on 2019/8/31.
+ * Created by yyb on 2022/10/28.
  */
 @Data
 public class MqttSession {

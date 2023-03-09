@@ -4,7 +4,7 @@ import com.yyb.service.IdentifyValidService;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by chenws on 2019/10/31.
+ * Created by yyb on 2022/10/31.
  */
 @Service
 public class Password implements IdentifyValidService {

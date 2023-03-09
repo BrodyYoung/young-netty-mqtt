@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by chenws on 2019/10/10.
+ * Created by yyb on 2022/10/10.
  */
 @Component
 public class MqttSessionCache {

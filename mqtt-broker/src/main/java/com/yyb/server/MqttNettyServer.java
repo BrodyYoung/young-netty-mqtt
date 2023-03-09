@@ -12,7 +12,7 @@ import io.netty.handler.codec.mqtt.MqttDecoder;
 import io.netty.handler.codec.mqtt.MqttEncoder;
 
 /**
- * Created by BrodyYoung on 2022/10/22.
+ * Created by yyb on 2022/10/22.
  */
 public class MqttNettyServer {
 

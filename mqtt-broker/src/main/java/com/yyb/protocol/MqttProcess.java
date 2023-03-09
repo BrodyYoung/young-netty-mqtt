@@ -5,7 +5,7 @@ import com.yyb.session.MqttSessionCache;
 import lombok.Getter;
 
 /**
- * Created by chenws on 2019/10/8.
+ * Created by yyb on 2022/10/8.
  */
 @Getter
 public class MqttProcess {

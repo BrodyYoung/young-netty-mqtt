@@ -5,7 +5,7 @@ import com.yyb.bean.DupPubRelMessageBO;
 import java.util.List;
 
 /**
- * Created by chenws on 2019/10/10.
+ * Created by yyb on 2022/10/10.
  */
 public interface DupPubRelMsgService {
 

@@ -8,7 +8,7 @@ import io.netty.util.AttributeKey;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Created by chenws on 2019/10/11.
+ * Created by yyb on 2022/10/11.
  */
 @Slf4j
 public class PubComp {

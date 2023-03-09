@@ -6,7 +6,7 @@ import com.yyb.bean.SubscribeBO;
 import java.util.Set;
 
 /**
- * Created by chenws on 2019/10/9.
+ * Created by yyb on 2022/10/9.
  */
 public interface SubscribeService {
 
